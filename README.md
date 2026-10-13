@@ -23,7 +23,7 @@ anonimizado a partir de `../bd empate/`. **Nunca** copia DNI ni teléfonos.
 
 ## Despliegue
 
-Base de Vite configurada para GitHub Pages: `/race-analytics/`.
+Base de Vite configurada para GitHub Pages: `/data-analytics/`.
 Ver `../docs/spec/08-despliegue-github-pages.md`.
 
 ## Estructura
