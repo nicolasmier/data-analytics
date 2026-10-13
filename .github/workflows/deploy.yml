@@ -21,10 +21,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: npm ci
-        working-directory: app
-      - run: npm run build
-        working-directory: app
+      - run: cd app && npm install
+      - run: cd app && npm run build
       - uses: actions/upload-pages-artifact@v3
         with:
           path: app/dist
