@@ -1,5 +1,7 @@
 # RaceAnalytics — app
 
+https://nicolasmier.github.io/data-analytics/
+
 Aplicación React + Vite + TypeScript. Analiza inscripciones a carreras desde Excel **sin persistencia**.
 
 ## Scripts
